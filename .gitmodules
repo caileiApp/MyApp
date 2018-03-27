@@ -1,0 +1,3 @@
+[submodule "libs/MyLib"]
+	path = libs/MyLib
+	url = git@github.com:caileiApp/MyLib.git
